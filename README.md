@@ -4,13 +4,6 @@ This is a classic **Snake Game** built using **Python** and the **Turtle graphic
 
 ---
 
-## 📁 Project Structure
-
-All files are located in the `snake game/` directory:
-
-<pre> <br>├── main.py <br>├── snake.py <br>├── food.py <br>└── scoreboard.py </pre>
----
-
 ## 🚀 Features
 
 - 🎮 Real-time snake movement with keyboard input
@@ -53,6 +46,13 @@ Use the following keys to control the snake:
 
 - Arrow Keys: `↑ ↓ ← →`
 
+---
+
+## 📁 Project Structure
+
+All files are located in the `snake game/` directory:
+
+<pre> <br>├── main.py <br>├── snake.py <br>├── food.py <br>└── scoreboard.py </pre>
 ---
 
 ## 🛠 Requirements
