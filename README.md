@@ -8,12 +8,7 @@ This is a classic **Snake Game** built using **Python** and the **Turtle graphic
 
 All files are located in the `snake game/` directory:
 
-snake game/
-├── main.py # Main game loop and input handling
-├── snake.py # Snake class: movement, extension, collision with tail
-├── food.py # Food class: random food placement
-└── scoreboard.py # Scoreboard class: score tracking and game over
-
+<pre> ```text snake game/ ├── main.py # Main game loop and input handling ├── snake.py # Snake class: movement, extension, collision with tail ├── food.py # Food class: random food placement └── scoreboard.py # Scoreboard class: score tracking and game over ``` </pre>
 ---
 
 ## 🚀 Features
